@@ -1,6 +1,6 @@
 # 🚍 Belediye Otobüsü Yolcu Takip Sistemi
 
-<p align="center">
+<p>
   <b>PIC16F628A ile Gerçek Zamanlı Yolcu Sayacı ve Kapasite Kontrol Sistemi</b>
 </p>
 
